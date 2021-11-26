@@ -36,6 +36,12 @@
             android:layout_height="wrap_content"
             android:text="División" />
 
+        <Button
+            android:id="@+id/buttonKmaM"
+            android:layout_width="245dp"
+            android:layout_height="wrap_content"
+            android:text="Kilometros a metros" />
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
